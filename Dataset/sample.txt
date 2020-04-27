@@ -1,0 +1,11 @@
+Original Dataset belongs to Zalando Research -->
+@misc{xiao2017fashionmnist,
+    title={Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms},
+    author={Han Xiao and Kashif Rasul and Roland Vollgraf},
+    year={2017},
+    eprint={1708.07747},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+The dataset labels are twisted for assignment.
+https://github.com/zalandoresearch/fashion-mnist
