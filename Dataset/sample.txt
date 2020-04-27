@@ -9,3 +9,5 @@ Original Dataset belongs to Zalando Research -->
 }
 The dataset labels are twisted for assignment.
 https://github.com/zalandoresearch/fashion-mnist
+
+Request for the train set @ kannavdhawan1@Live.com
